@@ -1,18 +1,18 @@
 ,title,href,tag,summary
 0,Queen's coffin travelling from Balmoral to Edinburgh,/news/live/uk-62866826,UK,"Thousands of people are falling silent along the route, as the cortege makes a six-hour journey to the Palace of Holyroodhouse."
-1,Ukrainian army says it has tripled retaken area,/news/world-europe-62867560,Europe,
-2,Shock and joy in Ukraine's liberated villages,/news/world-europe-62869157,Europe,
-3,The big issue that could derail UK/US relations,/news/world-us-canada-62819799,US & Canada,
-4,Crowds gather for cortege and King's proclamations,/news/uk-62867444,UK,
-5,Antigua plans vote on King's role as head of state,/news/world-62867569,World,"The country's PM says the poll will be held within three years, but Australia rules out a vote."
+1,Antigua plans vote on King's role as head of state,https://www.bbc.com/news/world-62867569,World,
+2,Ukrainian army says it has tripled retaken area,/news/world-europe-62867560,Europe,
+3,Shock and joy in Ukraine's liberated villages,/news/world-europe-62869157,Europe,
+4,The big issue that could derail UK/US relations,/news/world-us-canada-62819799,US & Canada,
+5,Crowds gather for cortege and King's proclamations,/news/uk-62867444,UK,The Queen's coffin travels to Edinburgh as more proclamations for Charles take place across UK.
 6,"Dancing, digging, drinks: The Queen in North America",/news/world-us-canada-62854864,US & Canada,Queen Elizabeth II met 13 US presidents and 12 Canadian prime ministers over 70 years.
 7,"What will happen to stamps, coins, banknotes and passports?",/news/uk-59596996,UK,We're used to seeing Queen Elizabeth II's portrait and coat of arms in our change and on cereal boxes.
-8,"SA reach 70-1 at lunch, leading England by 30 - clips, radio & text",/sport/live/cricket/58523342,Cricket,"Follow live text updates, in-play clips and TMS commentary from day four of the third Test between England and South Africa at the Kia Oval."
-9,Italian Grand Prix build-up: Leclerc on pole,/sport/live/formula1/58920097,Formula 1,Follow live text and BBC Radio 5 Live Sports Extra commentary from the Italian Grand Prix.
+8,"Broad removes Elgar after lunch to leave SA 83-2 - clips, radio & text",/sport/live/cricket/58523342,Cricket,"Follow live text updates, in-play clips and TMS commentary from day four of the third Test between England and South Africa at the Kia Oval."
+9,Italian Grand Prix: Leclerc leads as Verstappen battles through field,/sport/live/formula1/58920097,Formula 1,Follow live text and BBC Radio 5 Live Sports Extra commentary from the Italian Grand Prix.
 10,Tributes paid to Queen at Great North Run,/sport/athletics/62868224,Athletics,Tributes are paid to Her Majesty Queen Elizabeth II at the Great North Run before Uganda's Jacob Kiplimo and Kenya's Hellen Obiri win the elite men's and women's races.
-11,Queen was with me at happiest and saddest times - William,https://www.bbc.com/news/uk-62864869,UK,"The Prince of Wales says the world ""lost an extraordinary leader"" while he lost his ""Grannie"""
-12,Queen's final Scottish journey charts life of service,/news/uk-scotland-62862379,Scotland,"Her cortege from Balmoral to Edinburgh will wend its way past the villages, towns and cities she knew so well"
-13,Six times the Queen made us laugh,https://www.bbc.com/news/uk-62849166,UK,"The Queen's role in public life was a serious one, but she sometimes showed us her funny side"
+11,What next? A day-by-day guide from now to the funeral,https://www.bbc.com/news/uk-62861617,UK,The Queen's coffin will lie in state in Westminster Hall as King Charles III embarks on a trip around the UK
+12,Queen was with me at happiest and saddest times - William,https://www.bbc.com/news/uk-62864869,UK,"The Prince of Wales says the world ""lost an extraordinary leader"" while he lost his ""Grannie"""
+13,How can I pay my respects to the Queen?,https://www.bbc.com/news/uk-62863859,UK,Want to lay flowers or sign a book of condolence to remember the Queen? Here's what you need to know
 14,A surprising South Korean take on time travel,/reel/video/p0cr79tm/longshots-i-bought-a-time-machine,,
 15,How a Swedish family took on the Tax Agency,/reel/video/p0crbtyq/longshots-svonni-vs-the-swedish-tax-agency,,
 16,Blondie: I rocked with Cubans at 77,/reel/video/p0cqh1hz/longshots-blondie-vivir-en-habana,,
@@ -20,8 +20,8 @@
 18,The biggest myths of the teenage brain,https://www.bbc.com/future/article/20220823-what-really-goes-on-in-teens-brains,Future,Adolescents have been misunderstood for decades
 19,"'A delightful, fresh new romcom'",https://www.bbc.com/culture/article/20220911-bros-review-a-delightful-fresh-new-romcom,Culture,Charming gay romance Bros is 'entertaining and effective'
 20,The neglected trait that drives success,https://www.bbc.com/worklife/article/20220831-curiosity-the-neglected-trait-that-drives-success,Worklife,"How cultivating curiosity leads to better learning, creativity and wellbeing"
-21,'The teenage girl who changed the world',https://www.bbc.com/reel/video/p0cyzd0q/-the-teenage-girl-who-changed-the-world-,LongShots,Filmmaker Rokhaya Marieme Balde's ancestor is an inspiring historical figure with a surprising...
-22,Kim Kardashian launches private equity firm,https://www.bbc.com/news/business-62829733,Business,The star is the latest celebrity to build on her billion dollar brand in private investments
+21,Our rollercoaster love during lockdown,https://www.bbc.com/reel/video/p0cytfk9/-the-girl-i-was-dating-moved-into-my-home-,LongShots,"Covid changed our lives and relationships, as director Serena Vittorini explains in this Q&A"
+22,Emergency text averted possible California blackout,https://www.bbc.com/news/technology-62832775,Technology,Residents received a text to shut down non-essential power after record temperatures in the state
 23,Cancer rules rewritten by air-pollution discovery,https://www.bbc.com/news/health-62797777,Health,"Research shows that cancers might not always be caused by DNA mutations, as previously thought"
 24,Why Auckland is the 'spongiest' city,/future/article/20220823-how-auckland-worlds-most-spongy-city-tackles-floods,,
 25,The elephant buses safeguarding kids,/future/article/20220816-the-botswana-buses-tackling-human-elephant-conflict,,
@@ -32,7 +32,7 @@
 30,Apple reveals iPhone 14 Pro and Watch Ultra,/news/technology-62827774,Technology,
 31,British cultural stars join tributes to the Queen,/news/entertainment-arts-62844993,Entertainment & Arts,
 32,PM will explore energy market reform to cut bills,/news/science-environment-62832029,Science & Environment,
-33,Emergency text averted possible California blackout,/news/technology-62832775,Technology,
+33,Two government departments reprimanded by watchdog,/news/technology-62833111,Technology,
 34,In pictures: Queen's final journey from Balmoral,/news/in-pictures-62868466,In Pictures,
 35,Queen Elizabeth II: A life in pictures,/news/in-pictures-61645231,In Pictures,
 36,In pictures: Royals view tributes as Charles proclaimed King,/news/in-pictures-62864071,In Pictures,
