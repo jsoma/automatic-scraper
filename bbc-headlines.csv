@@ -1,15 +1,15 @@
 ,title,href,tag,summary
 0,Twenty killed in attack on another civilian convoy - Ukraine,/news/live/world-europe-63100522,Europe,"Details emerge of a recent deadly attack on Ukrainian civilians, a day after dozens were killed near Zaporizhzhia."
-1,Nuclear plant chief held by Russia - Ukraine,/news/world-europe-63100673,Europe,
-2,Ian batters South Carolina in second US landfall,/news/world-us-canada-63097951,US & Canada,
-3,Hurricane Ian drives black family away from island legacy,/news/world-us-canada-63095545,US & Canada,
-4,Premier League: Arsenal beat Tottenham before six more matches,/sport/live/football/62618914,Football,
-5,"'Our candidate isn't perfect, but he beats the alternative'",/news/world-latin-america-63091606,Latin America & Caribbean,"For many voters in Brazil, the election is as much about who they want to keep out as who they want in."
-6,Reckless Putin will not intimidate us - Biden,/news/world-europe-63098651,Europe,The US president condemns Russia's leader over his declared annexation of four occupied regions of Ukraine.
-7,"That isn't me, Kwarteng tells Mirror over image",/news/uk-63100715,UK,The Mirror newspaper apologises after mistaking another man for the chancellor in an online story.
-8,Singapore GP qualifying as Red Bull say rivals' budget breach claims 'unacceptable',/sport/live/formula1/58920127,Formula 1,Follow live text and audio commentary from final practice and qualifying at the Singapore Grand Prix.
-9,Are Arsenal really a lot better this season?,/sport/football/63040727,Football,"As Premier League leaders Arsenal prepare to face Tottenham in the north London derby, but are they really a lot better this season?"
-10,US win 11th women's basketball World Cup title,/sport/basketball/63100464,Basketball,The United States win a record-extending 11th women's basketball World Cup title with an 83-61 victory over China in Sydney.
+1,Nuclear plant chief held by Russia - Ukraine,https://www.bbc.com/news/world-europe-63100673,Europe,
+2,"That isn't me, Kwarteng tells Mirror over image",https://www.bbc.com/news/uk-63100715,UK,
+3,Hurricane Ian drives black family away from island legacy,https://www.bbc.com/news/world-us-canada-63095545,US & Canada,
+4,Premier League: Build-up to five matches after Arsenal beat Spurs,/sport/live/football/62618914,Football,
+5,Ian batters South Carolina in second US landfall,/news/world-us-canada-63097951,US & Canada,"After wreaking deadly havoc in Florida, Ian smashes piers in South Carolina and floods neighbourhoods."
+6,"'Our candidate isn't perfect, but he beats the alternative'",/news/world-latin-america-63091606,Latin America & Caribbean,"For many voters in Brazil, the election is as much about who they want to keep out as who they want in."
+7,Reckless Putin will not intimidate us - Biden,/news/world-europe-63098651,Europe,The US president condemns Russia's leader over his declared annexation of four occupied regions of Ukraine.
+8,Singapore Grand Prix qualifying: Russell out in Q2 as track starts to dry,/sport/live/formula1/58920127,Formula 1,Follow live text and audio commentary from final practice and qualifying at the Singapore Grand Prix.
+9,Arsenal beat 10-man Tottenham to go four clear,/sport/football/63017880,Football,"Thomas Partey, Gabriel Jesus and Granit Xhaka score as Arsenal overcome 10-man Tottenham to go four points clear at the top of the Premier League."
+10,Budget cap comments 'unacceptable' - Red Bull,/sport/formula1/63101583,Formula 1,"Red Bull team principal Christian Horner says he is ""absolutely confident"" his team did not breach Formula 1's budget cap in 2021."
 11,The phenomenon of eye colour change,https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives,Future,The colour of our iris can change throughout our lives
 12,The US push to make salaries public,https://www.bbc.com/worklife/article/20220929-the-us-push-for-pay-transparency,Worklife,Can the US blaze a path towards fairer wages for the rest of the world?
 13,11 of the best films to watch this October,https://www.bbc.com/culture/article/20220929-11-of-the-best-films-to-watch-this-october,Culture,A biopic of Emily Brontë and a romcom starring George Clooney and Julia Roberts
@@ -26,13 +26,13 @@
 24,Will Venice succumb to the sea?,/future/article/20220927-italys-plan-to-save-venice-from-sinking,,
 25,India's sustainable cooling solution,/future/article/20220920-how-indias-lattice-buildings-cool-without-air-con,,
 26,Why fast fashion needs a makeover,/future/article/20220913-how-to-fix-unsustainable-fast-fashion,,
-27,'We want to be really honest about working class life',/news/entertainment-arts-63021582,Entertainment & Arts,"Cashy C's, a rap musical about life on the breadline, is being performed in a recreated pawnbrokers."
-28,Liz Truss' path to regain market credibility,/news/business-63085416,Business,
-29,Sleeping in barns - homeless in the countryside,/news/science-environment-63061504,Science & Environment,
-30,"UK must brace for big, early wave of flu - experts",/news/health-63045190,Health,
-31,Steve Wright signs off from Radio 2 afternoon show,/news/entertainment-arts-63088080,Entertainment & Arts,
-32,Roblox removes 'meat grinder' Ukraine war game,/news/technology-63078950,Technology,
-33,Eurasian Beaver now legally protected in England,/news/science-environment-63077068,Science & Environment,
+27,Roblox removes 'meat grinder' Ukraine war game,/news/technology-63078950,Technology,The War on Larkiv game was accepted and promoted by the world's largest children's game platform.
+28,Sleeping in barns - homeless in the countryside,/news/science-environment-63061504,Science & Environment,
+29,Messages reveal how Musk and Twitter boss fell out,/news/technology-63098117,Technology,
+30,'We want to be really honest about working class life',/news/entertainment-arts-63021582,Entertainment & Arts,
+31,Eurasian Beaver now legally protected in England,/news/science-environment-63077068,Science & Environment,
+32,"UK must brace for big, early wave of flu - experts",/news/health-63045190,Health,
+33,Steve Wright signs off from Radio 2 afternoon show,/news/entertainment-arts-63088080,Entertainment & Arts,
 34,In pictures: Floridians take in Hurricane Ian’s impact,/news/world-us-canada-63080969,US & Canada,
 35,Guernsey sunrise wins Pic of the Season,https://www.bbc.co.uk/weather/features/63078910,News,
 36,"Africa's top shots: Prayer, pride and pacing",/news/world-africa-63072006,Africa,
