@@ -1,15 +1,15 @@
 ,title,href,tag,summary
 0,Israel denies striking Gaza hospital – but says fighting happening around it,/news/live/world-middle-east-67385263,Middle East,"The Israeli military acknowledges clashes ""around"" Al-Shifa, where doctors say they have lost power and run out of food and water."
-1,Macron urges Israel to stop bombing babies in Gaza,/news/world-europe-67356581,Europe,
-2,Revealed: Mistakes that blocked Maui fire escape routes,/news/world-us-canada-67382947,US & Canada,
+1,"300,000 attend pro-Palestinian march, with about 100 counter-protesters arrested",https://www.bbc.com/news/live/uk-67390343,UK,
+2,Pope fires Texan bishop after criticism of reforms,https://www.bbc.com/news/world-us-canada-67390366,US,
 3,The health benefits of 'retro-walking',https://www.bbc.com/future/article/20231110-why-walking-backwards-can-be-good-for-your-health-and-brain,Future,
 4,The fattiest pastry in Europe,https://www.bbc.com/travel/article/20231111-the-right-way-to-make-kouign-amann,World's Table,
-5,Pope fires Texan bishop after criticism of reforms,/news/world-us-canada-67390366,US & Canada,"Joseph Strickland is ""relieved"" from governance following a Vatican investigation."
-6,Iceland declares emergency over volcano threat,/news/world-europe-67387827,Europe,Thousands are asked to evacuate from a town in the southwest over fears magma has spread underground.
+5,Macron urges Israel to stop bombing babies in Gaza,/news/world-europe-67356581,Europe,"In an exclusive BBC interview, the French president said a ceasefire would be in Israel's interest."
+6,Revealed: Mistakes that blocked Maui fire escape routes,/news/world-us-canada-67382947,US & Canada,A BBC investigation reveals confusion between officials as an inferno destroyed the town of Lahaina.
 7,Watch: Hawaii's mysterious 'Barbie' pink pond,/news/world-us-canada-67390345,US & Canada,Visitors have been flocking to the Kealia Pond National Wildlife Refuge to see the spectacle.
-8,"Premier League: Man Utd & Arsenal both lead, Palace 2-3 Everton",/sport/live/football/67068947,Football,"Watch Final Score and follow text updates from three Premier League games, after Wolves come back to beat Tottenham."
-9,England end World Cup with consolation Pakistan win,/sport/cricket/67384204,Cricket,England end their World Cup campaign with a commanding consolation victory over Pakistan in Kolkata.
-10,Wolves score twice in stoppage time to beat Spurs,/sport/football/67318575,Football,Pablo Sarabia and Mario Lemina score in stoppage time as Wolves come from behind to beat Tottenham at Molineux.
+8,"Premier League: Man Utd beat Luton, also wins for Arsenal & Everton",/sport/live/football/67068947,Football,"Follow reaction as Manchester United, Arsenal and Everton all win in the Premier League, plus build-up to Bournemouth v Newcastle."
+9,Arsenal go second with victory over Burnley,/sport/football/67318576,Football,Arsenal move level on points with Premier League leaders Manchester City courtesy of a hard-fought victory over struggling Burnley.
+10,England end World Cup with consolation Pakistan win,/sport/cricket/67384204,Cricket,England end their World Cup campaign with a commanding consolation victory over Pakistan in Kolkata.
 11,The raunchy books Britain loves,https://www.bbc.com/culture/article/20231109-riders-to-tackle-the-raunchy-books-britain-loves,Culture,Jilly Cooper's raunchy novels include Rishi Sunak as a fan
 12,Diwali spending set to boom in the US,https://www.bbc.com/worklife/article/20231107-why-diwali-spending-is-primed-to-rocket-in-the-us,Worklife,"Amid rising recognition of Diwali, US companies are hoping to capture consumers"
 13,South America's 'beverage of champions',https://www.bbc.com/travel/article/20231108-yerba-mate-south-americas-beverage-of-champions,World's Table,This bitter tea is growing in popularity as people aim for a healthier lifestyle
@@ -32,7 +32,7 @@
 30,Baby Queen: From Heartstopper to chart topper,https://www.bbc.co.uk/news/articles/c518g2lg02yo,Entertainment,
 31,Making video game Just Dance accessible for all,/news/uk-wales-67366892,Wales,
 32,Mounjaro weight loss jab authorised in UK,/news/health-67366256,Health,
-33,Lightning fires threaten planet-cooling forests,/news/science-environment-67360140,Science & Environment,
+33,Iceland declares emergency over volcano threat,/news/world-europe-67387827,Europe,
 34,King Charles III delivers speech at State Opening of Parliament,/news/uk-politics-67344490,UK Politics,
 35,Damage and disruption: Storm Ciarán in pictures,/news/in-pictures-67298061,In Pictures,
 36,"Clouds, crowns and crews: Africa's top shots",/news/world-africa-67295807,Africa,
